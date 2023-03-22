@@ -16,7 +16,6 @@ for (j = 0; j < 60; j++)
 {
 _putchar(i / 10 + '0');
 _putchar(i % 10 + '0');
-_putchar('i');
 _putchar(':');
 _putchar(j / 10 + '0');
 _putchar(j % 10 + '0');
