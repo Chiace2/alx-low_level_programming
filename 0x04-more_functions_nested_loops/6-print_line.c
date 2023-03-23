@@ -12,11 +12,11 @@ if (n <= 0)
 {
 _putchar('\n');
 }
-else 
+else
 {
-int m;
+int k;
 
-for (m = 1; m <= n; m++)
+for (k = 1; k <= n; k++)
 {
 _putchar('_');
 }
