@@ -14,18 +14,19 @@ _putchar('\n');
 }
 else
 {
-int k, j;
+int i, j;
 
-for (k = 0; k <= n; k++)
+for (i = 0; i < n; i++)
 {
-for (j = 0; j <= n; j++)
+for (j = 0; j < n; j++)
 {
-if (j == k)
+if (j == i)
 _putchar('\\');
-else if (j < k)
+else if (j < i)
 _putchar(' ');
 }
 _putchar('\n');
 }
 }
 }
+
