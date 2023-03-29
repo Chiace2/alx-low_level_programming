@@ -4,7 +4,7 @@
  * reverse_array - check code to reverse array integers
  * @a: parameter a
  * @n:parameter b
- * 
+ *
  * Return: void
  */
 void reverse_array(int *a, int n)
