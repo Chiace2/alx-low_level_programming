@@ -15,4 +15,5 @@ int _putchar(char c);
 #include <string.h>
 #include <stdio.h>
 #include <unistd.h>
+#include <stdlib.h>
 #endif
