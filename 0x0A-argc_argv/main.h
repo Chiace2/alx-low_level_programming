@@ -11,6 +11,7 @@ int _atoi(char *s);
 #include <string.h>
 #include <stdio.h>
 #include <unistd.h>
-		
+#include <stdlib.h>
+
 #endif
 
